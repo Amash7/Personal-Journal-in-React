@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #f34f50;
+    border-radius: 5px;
+    justify-content: center;
+    display: flex;
+}
+.navbar > img{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+.navbar > h4{
+    color: white;
+}

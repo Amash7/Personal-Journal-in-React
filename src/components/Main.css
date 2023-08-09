@@ -1,0 +1,34 @@
+section {
+    display: flex;
+    align-items: center;
+}
+
+.main-image {
+    width: 150px;
+    border-radius: 8px;
+}
+
+.right {
+    margin-left: 10px;
+}
+
+.right > img {
+    width: 12px;
+    vertical-align: middle;
+}
+
+.gray {
+    margin-left: 20px;
+}
+
+.gray1 {
+    color: rgb(175, 175, 175);
+}
+
+.dates {
+    font-weight: bolder;
+}
+
+.description {
+    color: rgb(105, 105, 105);
+}
